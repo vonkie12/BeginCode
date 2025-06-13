@@ -1,0 +1,149 @@
+{
+  "chart": {
+    "title": "Levelized cost of energy for renewables by country",
+    "subtitle": "The average cost per unit of energy generated across the lifetime of a new power plant. This data is expressed in US dollars per [kilowatt-hour](#dod:watt-hours). It is adjusted for inflation but does not account for differences in living costs between countries.",
+    "note": "Data is expressed in constant 2023 US$.",
+    "citation": "IRENA (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/levelized-cost-of-energy?v=1&csvType=full&useColumnShortNames=false&utm_source=chatgpt.com",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Bioenergy levelized cost of energy": {
+      "titleShort": "Bioenergy levelized cost of energy",
+      "titleLong": "Bioenergy levelized cost of energy",
+      "descriptionShort": "This data is expressed in US dollars per kilowatt-hour. It is adjusted for inflation but does not account for differences in living costs between countries.",
+      "descriptionKey": [
+        "Levelized cost of energy (LCOE) estimates the average cost per unit of energy generated across the lifetime of a new power plant. It is measured in US$ per kilowatt-hour."
+      ],
+      "shortUnit": "$/kWh",
+      "unit": "constant 2023 US$ per kilowatt-hour",
+      "timespan": "2010-2023",
+      "type": "Numeric",
+      "owidVariableId": 997968,
+      "shortName": "bioenergy",
+      "lastUpdated": "2024-11-15",
+      "nextUpdate": "2025-11-15",
+      "citationShort": "IRENA (2024) – with minor processing by Our World in Data",
+      "citationLong": "IRENA (2024) – with minor processing by Our World in Data. “Bioenergy levelized cost of energy” [dataset]. IRENA, “Renewable Power Generation Costs” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/997968.metadata.json"
+    },
+    "Geothermal levelized cost of energy": {
+      "titleShort": "Geothermal levelized cost of energy",
+      "titleLong": "Geothermal levelized cost of energy",
+      "descriptionShort": "This data is expressed in US dollars per kilowatt-hour. It is adjusted for inflation but does not account for differences in living costs between countries.",
+      "descriptionKey": [
+        "Levelized cost of energy (LCOE) estimates the average cost per unit of energy generated across the lifetime of a new power plant. It is measured in US$ per kilowatt-hour."
+      ],
+      "shortUnit": "$/kWh",
+      "unit": "constant 2023 US$ per kilowatt-hour",
+      "timespan": "2007-2023",
+      "type": "Numeric",
+      "owidVariableId": 997969,
+      "shortName": "geothermal",
+      "lastUpdated": "2024-11-15",
+      "nextUpdate": "2025-11-15",
+      "citationShort": "IRENA (2024) – with minor processing by Our World in Data",
+      "citationLong": "IRENA (2024) – with minor processing by Our World in Data. “Geothermal levelized cost of energy” [dataset]. IRENA, “Renewable Power Generation Costs” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/997969.metadata.json"
+    },
+    "Offshore wind levelized cost of energy": {
+      "titleShort": "Offshore wind levelized cost of energy",
+      "titleLong": "Offshore wind levelized cost of energy",
+      "descriptionShort": "This data is expressed in US dollars per kilowatt-hour. It is adjusted for inflation but does not account for differences in living costs between countries.",
+      "descriptionKey": [
+        "Levelized cost of energy (LCOE) estimates the average cost per unit of energy generated across the lifetime of a new power plant. It is measured in US$ per kilowatt-hour."
+      ],
+      "shortUnit": "$/kWh",
+      "unit": "constant 2023 US$ per kilowatt-hour",
+      "timespan": "2000-2023",
+      "type": "Numeric",
+      "owidVariableId": 997971,
+      "shortName": "offshore_wind",
+      "lastUpdated": "2024-11-15",
+      "nextUpdate": "2025-11-15",
+      "citationShort": "IRENA (2024) – with minor processing by Our World in Data",
+      "citationLong": "IRENA (2024) – with minor processing by Our World in Data. “Offshore wind levelized cost of energy” [dataset]. IRENA, “Renewable Power Generation Costs” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/997971.metadata.json"
+    },
+    "Solar photovoltaic levelized cost of energy": {
+      "titleShort": "Solar photovoltaic levelized cost of energy",
+      "titleLong": "Solar photovoltaic levelized cost of energy",
+      "descriptionShort": "This data is expressed in US dollars per kilowatt-hour. It is adjusted for inflation but does not account for differences in living costs between countries.",
+      "descriptionKey": [
+        "Levelized cost of energy (LCOE) estimates the average cost per unit of energy generated across the lifetime of a new power plant. It is measured in US$ per kilowatt-hour."
+      ],
+      "shortUnit": "$/kWh",
+      "unit": "constant 2023 US$ per kilowatt-hour",
+      "timespan": "2010-2023",
+      "type": "Numeric",
+      "owidVariableId": 997975,
+      "shortName": "solar_photovoltaic",
+      "lastUpdated": "2024-11-15",
+      "nextUpdate": "2025-11-15",
+      "citationShort": "IRENA (2024) – with minor processing by Our World in Data",
+      "citationLong": "IRENA (2024) – with minor processing by Our World in Data. “Solar photovoltaic levelized cost of energy” [dataset]. IRENA, “Renewable Power Generation Costs” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/997975.metadata.json"
+    },
+    "Concentrated solar power levelized cost of energy": {
+      "titleShort": "Concentrated solar power levelized cost of energy",
+      "titleLong": "Concentrated solar power levelized cost of energy",
+      "descriptionShort": "This data is expressed in US dollars per kilowatt-hour. It is adjusted for inflation but does not account for differences in living costs between countries.",
+      "descriptionKey": [
+        "Levelized cost of energy (LCOE) estimates the average cost per unit of energy generated across the lifetime of a new power plant. It is measured in US$ per kilowatt-hour."
+      ],
+      "shortUnit": "$/kWh",
+      "unit": "constant 2023 US$ per kilowatt-hour",
+      "timespan": "2010-2023",
+      "type": "Numeric",
+      "owidVariableId": 997970,
+      "shortName": "concentrated_solar_power",
+      "lastUpdated": "2024-11-15",
+      "nextUpdate": "2025-11-15",
+      "citationShort": "IRENA (2024) – with minor processing by Our World in Data",
+      "citationLong": "IRENA (2024) – with minor processing by Our World in Data. “Concentrated solar power levelized cost of energy” [dataset]. IRENA, “Renewable Power Generation Costs” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/997970.metadata.json"
+    },
+    "Hydropower levelized cost of energy": {
+      "titleShort": "Hydropower levelized cost of energy",
+      "titleLong": "Hydropower levelized cost of energy",
+      "descriptionShort": "This data is expressed in US dollars per kilowatt-hour. It is adjusted for inflation but does not account for differences in living costs between countries.",
+      "descriptionKey": [
+        "Levelized cost of energy (LCOE) estimates the average cost per unit of energy generated across the lifetime of a new power plant. It is measured in US$ per kilowatt-hour."
+      ],
+      "shortUnit": "$/kWh",
+      "unit": "constant 2023 US$ per kilowatt-hour",
+      "timespan": "2010-2023",
+      "type": "Numeric",
+      "owidVariableId": 997972,
+      "shortName": "hydropower",
+      "lastUpdated": "2024-11-15",
+      "nextUpdate": "2025-11-15",
+      "citationShort": "IRENA (2024) – with minor processing by Our World in Data",
+      "citationLong": "IRENA (2024) – with minor processing by Our World in Data. “Hydropower levelized cost of energy” [dataset]. IRENA, “Renewable Power Generation Costs” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/997972.metadata.json"
+    },
+    "Onshore wind levelized cost of energy": {
+      "titleShort": "Onshore wind levelized cost of energy",
+      "titleLong": "Onshore wind levelized cost of energy",
+      "descriptionShort": "This data is expressed in US dollars per kilowatt-hour. It is adjusted for inflation but does not account for differences in living costs between countries.",
+      "descriptionKey": [
+        "Levelized cost of energy (LCOE) estimates the average cost per unit of energy generated across the lifetime of a new power plant. It is measured in US$ per kilowatt-hour."
+      ],
+      "shortUnit": "$/kWh",
+      "unit": "constant 2023 US$ per kilowatt-hour",
+      "timespan": "1984-2023",
+      "type": "Numeric",
+      "owidVariableId": 997976,
+      "shortName": "onshore_wind",
+      "lastUpdated": "2024-11-15",
+      "nextUpdate": "2025-11-15",
+      "citationShort": "IRENA (2024) – with minor processing by Our World in Data",
+      "citationLong": "IRENA (2024) – with minor processing by Our World in Data. “Onshore wind levelized cost of energy” [dataset]. IRENA, “Renewable Power Generation Costs” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/997976.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-06-13",
+  "activeFilters": {}
+}
